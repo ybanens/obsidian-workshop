@@ -13,20 +13,20 @@ aux_links:
 logo: "assets/images/gu_logo.png"
 
 
-# # Define callout colours and titles
-#   callouts:
-#     warning:
-#       title: Warning
-#       color: red
-#     info:
-#       title: Info
-#       color: blue
-#     success:
-#       title: Success
-#       color: green
-#     highlight:
-#       title: Important
-#       color: yellow
-#     note:
-#       title: note
-#       color: purple
+# Define callout colours and titles
+callouts:
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: blue
+  success:
+    title: Success
+    color: green
+  highlight:
+    title: Important
+    color: yellow
+  note:
+    title: note
+    color: purple
