@@ -10,7 +10,7 @@ aux_links:
     - "https://obsidian.md"
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/gu_logo.png"
+logo: "assets/images/gu_logo.png"
 
 
 # # Define callout colours and titles
