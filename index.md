@@ -20,10 +20,14 @@ The workshop runs for one hour and will cover the following topics:
 4. More on obsidian pages
 	1. The Command palette
 	2. YAML
-5. Extending Obsidian with templates and plugins
+5. Extending Obsidian with themes, templates and plugins
 	1. Creating templates (daily notes, literature notes)
-	2. 
+	2. Core plugins
+	3. Community plugins
+	4. Themes
 6. Building an academic workflow with Obsidian
+	1. Zotero export
+	2. 
 
 ## Resource
 
