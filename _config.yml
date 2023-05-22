@@ -1,8 +1,30 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Obsidian
+description: Personal Knowledge Management for Researchers
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Obsidian site: https://obsidian.md
+
+# Set a path/url to a logo that will be displayed instead of the title
+  logo: "/assets/images/gu_logo.png"
+
+
+# Define callout colours and titles
+  callouts:
+    warning:
+      title: Warning
+      color: red
+    info:
+      title: Info
+      color: blue
+    success:
+      title: Success
+      color: green
+    highlight:
+      title: Important
+      color: yellow
+    note:
+      title: note
+      color: purple
