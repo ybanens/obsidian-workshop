@@ -36,4 +36,4 @@ We have provided a demo vault that contains sample content with a few examples o
 [Download the demo vault](/assets/Hdr Skills Week.zip)
 
 You'll need to unzip the file and place it on your Desktop. 
-{: .note }
+{: .info }
